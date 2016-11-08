@@ -25,6 +25,8 @@ rm -f dist/*
 Delete existing dist files
 You can see result in
 
-OS X : http://0.0.0.0:8080,
+OS X : http://0.0.0.0:8080
+
 Linux : http://localhost:8080
+
 Windows : http://localhost:8080
